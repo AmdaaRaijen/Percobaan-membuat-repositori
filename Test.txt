@@ -3,4 +3,4 @@ halo semua, kalau kalian membacai ini.
   -File ini adalah file pertama yang saya buat pada GitHub
   -Semoga dengan belajar GitHub ini, saya bisa membuat website
 
-ini adalah penambahan pertama pada file Test.txt
+Saat ini saya meghapus teks, dan menambahkan teks baru
