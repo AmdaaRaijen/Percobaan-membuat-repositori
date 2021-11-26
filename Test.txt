@@ -1,0 +1,4 @@
+halo semua, kalau kalian membacai ini.
+  -Hari ini adalah hari jumat 26/11/2021
+  -File ini adalah file pertama yang saya buat pada GitHub
+  -Semoga dengan belajar GitHub ini, saya bisa membuat website
